@@ -37,7 +37,7 @@
 
 ## How to Use
 
-1. **Download** the latest release from the [Releases](https://github.com/RussiannHarvey/VanadiumNuker/releases) page.
+1. **Download** the latest release from the [Releases]https://github.com/RussiannHarvey/Vanadium-Nuker-V2/releases/tag/file page.
 2. **Extract** the archive to a folder.
 3. Run `VanadiumNuker.exe` (no installation required).
 4. Enter your bot token and the target server (guild) ID when prompted.
