@@ -4,6 +4,7 @@
 ![C#](https://img.shields.io/badge/language-C%23-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
+
 **Vanadium Nuker V2** is a powerful Discord server nuker tool written in C#. It allows you to perform various destructive actions on a Discord server using HTTP requests only (no gateway needed). This tool is intended for **educational purposes only** and should only be used on servers you own or have explicit permission to test.
 
 > Made by: RussianHarvey  
