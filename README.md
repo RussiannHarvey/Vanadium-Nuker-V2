@@ -39,25 +39,6 @@
 
 ---
 
-## How to Use
-
-1. **Download** the latest File 
-2. **Extract** the archive to a folder.
-3. Run `VanadiumNuker.exe` (no installation required).
-4. Enter your bot token and the target server (guild) ID when prompted.
-5. Choose an option from the menu:
-   - `1` – Ban Members
-   - `2` – Create Channels
-   - `3` – Delete Channels
-   - `4` – Create Roles
-   - `5` – Delete Roles
-   - `6` – Spam Channels
-6. Follow the on-screen instructions.
-
-> **Note:** When banning members, you can choose to fetch all member IDs first (requires the bot to have the `Server Members Intent` enabled and the `guilds.members.read` scope). Alternatively, you can manually enter member IDs.
-
----
-
 ## Files Included
 
 - `VanadiumNuker.exe` – The main executable.
@@ -80,10 +61,6 @@
 **No, it's completely safe and contains no malware or loggers.**  
 I do not add any malware or logger – I never included and never will include any backdoors, keyloggers, or data stealers. My only intention was to learn C# and create a powerful tool for testing purposes.
 
-**If you're still concerned:**
-- Run it in a sandboxed environment.
-- Use antivirus (though some may flag it due to its destructive behavior, not because of actual malware).
-
 ---
 
 ## Disclaimer
@@ -95,12 +72,4 @@ I do not add any malware or logger – I never included and never will include a
 ## Russian Harvey's belief
 
 The reason I'm discontinuing support for the tool is the large number of trolls in the Nuke community. Some might tell me the tool is stolen and that I've included my copyright because of the similarity in design to existing tools. I created it myself and didn't steal any code, but this community's intelligence level doesn't exceed 1%. So fuck skidz
-
----
-
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-https://cdn.discordapp.com/attachments/1462784794235768843/1482187082746302605/Screenshot_2026-03-14_040942.png?ex=69b609ca&is=69b4b84a&hm=00fa7588e34ace901e678b13045c8bc9716e18eb7f47894ec4e0a3a2c8b51684&
 
