@@ -43,7 +43,7 @@
 ## Files Included
 
 - `VanadiumNuker.exe` – The main executable.
-- `README.md` – This file.
+- `README.md` 
 - `Newtonsoft.Json.dll`
 - `VanadiumNuker.dll`
 - `VanadiumNuker.runtimeconfig.json`
