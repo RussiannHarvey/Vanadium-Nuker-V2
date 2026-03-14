@@ -4,11 +4,15 @@
 ![C#](https://img.shields.io/badge/language-C%23-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
+> **⚠️ Support for this project has been discontinued.**  
+> The source code is now open for anyone to use, modify, or learn from. No further updates will be provided.  
+> It is released as open source – you can do whatever you want with it.
 
 **Vanadium Nuker V2** is a powerful Discord server nuker tool written in C#. It allows you to perform various destructive actions on a Discord server using HTTP requests only (no gateway needed). This tool is intended for **educational purposes only** and should only be used on servers you own or have explicit permission to test.
 
 > Made by: RussianHarvey  
 > GitHub: [github.com/RussiannHarvey](https://github.com/RussiannHarvey)
+
 ---
 
 ## Features
@@ -71,6 +75,17 @@
 
 ---
 
+## Is it safe? Is it a malware / logger?
+
+**No, it's completely safe and contains no malware or loggers.**  
+I do not add any malware or logger – I never included and never will include any backdoors, keyloggers, or data stealers. My only intention was to learn C# and create a powerful tool for testing purposes.
+
+**If you're still concerned:**
+- Run it in a sandboxed environment.
+- Use antivirus (though some may flag it due to its destructive behavior, not because of actual malware).
+
+---
+
 ## Disclaimer
 
 **This tool is for educational purposes only.** Misusing it on servers you do not own is against Discord's Terms of Service and may result in a permanent ban of your bot and account. The author is not responsible for any damage caused by this tool. Use at your own risk.
@@ -80,3 +95,5 @@
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+
