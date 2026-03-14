@@ -44,6 +44,9 @@
 
 - `VanadiumNuker.exe` – The main executable.
 - `README.md` – This file.
+- `Newtonsoft.Json.dll`
+- `VanadiumNuker.dll`
+- `VanadiumNuker.runtimeconfig.json`
 
 ---
 
