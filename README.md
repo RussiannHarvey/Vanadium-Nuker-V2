@@ -58,7 +58,7 @@
 ## Is it safe? Is it a malware / logger?
 
 **No, it's completely safe and contains no malware or loggers.**  
-I do not add any malware or logger – I never included and never will include any backdoors, keyloggers, or data stealers. My only intention was to learn C# and create a powerful tool for testing purposes.
+I do not add any malware or logger – I never included and never will include any backdoors, keyloggers, or data stealers. My only intention It was a perfect, simple tool; I didn't include any payloads or malware.
 
 ---
 
