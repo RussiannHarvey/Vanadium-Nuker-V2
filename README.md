@@ -101,3 +101,6 @@ The reason I'm discontinuing support for the tool is the large number of trolls 
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+https://cdn.discordapp.com/attachments/1462784794235768843/1482187082746302605/Screenshot_2026-03-14_040942.png?ex=69b609ca&is=69b4b84a&hm=00fa7588e34ace901e678b13045c8bc9716e18eb7f47894ec4e0a3a2c8b51684&
+
