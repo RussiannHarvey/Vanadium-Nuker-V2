@@ -73,3 +73,4 @@ I do not add any malware or logger – I never included and never will include a
 
 The reason I'm discontinuing support for the tool is the large number of trolls in the Nuke community. Some might tell me the tool is stolen and that I've included my copyright because of the similarity in design to existing tools. I created it myself and didn't steal any code, but this community's intelligence level doesn't exceed 1%. So fuck skidz
 
+https://github.com/RussiannHarvey/Vanadium-Nuker-V2/blob/main/VanadiumNuker.png
