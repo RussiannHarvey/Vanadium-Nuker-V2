@@ -43,7 +43,6 @@
 ## Files Included
 
 - `VanadiumNuker.exe` – The main executable.
-- `members.txt` – Used to store member IDs when fetching (created automatically if not present).
 - `README.md` – This file.
 
 ---
