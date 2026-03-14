@@ -95,5 +95,3 @@ I do not add any malware or logger – I never included and never will include a
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-
