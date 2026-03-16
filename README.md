@@ -13,7 +13,9 @@
 > 
 > GitHub: [github.com/RussiannHarvey](https://github.com/RussiannHarvey)
 > 
-> Discord Username: russianharvey 
+> Discord Username: russianharvey
+>
+> Telegram: https://t.me/VanadiumNuker 
 ---
 
 ## Features
