@@ -8,6 +8,7 @@
 > There are no updates or support for the tool; it is outdated V2 Edition
 
 **Vanadium Nuker V2** is a powerful Discord server nuker tool written in C#. It allows you to perform various destructive actions on a Discord server using HTTP requests only (no gateway needed). This tool is intended for **educational purposes only**
+I disclaim any responsibility for any misuse of the tool; it will be your personal responsibility while using the tool.
 
 > Made by: RussianHarvey
 > 
