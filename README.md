@@ -43,16 +43,6 @@ I disclaim any responsibility for any misuse of the tool; it will be your person
 
 ---
 
-## Files Included
-
-- `VanadiumNuker.exe` – The main executable.
-- `README.md` 
-- `Newtonsoft.Json.dll`
-- `VanadiumNuker.dll`
-- `VanadiumNuker.runtimeconfig.json`
-
----
-
 ## Important Notes
 
 - This tool uses **direct HTTP requests** for maximum speed. Concurrency is limited to 45 tasks at once to avoid hitting rate limits.
