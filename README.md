@@ -38,6 +38,7 @@ I disclaim any responsibility for any misuse of the tool; it will be your person
   - `Manage Roles`
   - `Send Messages`
   - `Read Message History` (for spam)
+  - The Best Add `Administrator`
 - The bot must be added to the target server.
 
 ---
