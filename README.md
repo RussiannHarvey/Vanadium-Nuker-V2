@@ -16,7 +16,6 @@ I disclaim any responsibility for any misuse of the tool; it will be your person
 > 
 > Discord Username: russianharvey
 >
-> Telegram: https://t.me/VanadiumNuker 
 ---
 
 ## Features
@@ -47,7 +46,8 @@ I disclaim any responsibility for any misuse of the tool; it will be your person
 
 - This tool uses **direct HTTP requests** for maximum speed. Concurrency is limited to 45 tasks at once to avoid hitting rate limits.
 - Rate limits are handled with automatic retry.
-- All actions are logged with timestamps and include the name/ID of the affected object (e.g., `2026-03-13 15:44:16 [INFO] Created channel general | 123456789012345678`).
+- All actions are logged with timestamps and include the name/ID of the affected object
+- (e.g., `2026-03-13 15:44:16 [INFO] Created channel general | 123456789012345678`).
 - If the bot token or guild ID is invalid, you will be prompted to re-enter them.
 
 ---
